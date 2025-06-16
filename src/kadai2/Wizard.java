@@ -1,7 +1,5 @@
 package kadai2;
 
-import kadai1.Matango;
-
 public class Wizard extends Character {
     @Override
     public void attack(Matango m) {
